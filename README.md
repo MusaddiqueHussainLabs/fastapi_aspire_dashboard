@@ -1,0 +1,2 @@
+# fastapi_aspire_dashboard
+fastapi_aspire_dashboard
