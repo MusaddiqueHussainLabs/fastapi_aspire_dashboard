@@ -1,0 +1,17 @@
+fastapi[standard]
+uvicorn[standard]
+spacy
+python-dotenv
+python-jose[cryptography]
+passlib[bcrypt]
+pyodbc
+azure-identity
+azure-keyvault-secrets
+pandas
+python-multipart
+nltk
+pydantic-settings
+opentelemetry-api
+opentelemetry-sdk
+opentelemetry-exporter-otlp-proto-grpc
+opentelemetry-instrumentation-fastapi
